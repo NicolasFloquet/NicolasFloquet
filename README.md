@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#453](https://github.com/nginxinc/docker-nginx/issues/453) in [nginxinc/docker-nginx](https://github.com/nginxinc/docker-nginx)
-2. 🗣 Commented on [#459](https://github.com/nginxinc/docker-nginx/issues/459) in [nginxinc/docker-nginx](https://github.com/nginxinc/docker-nginx)
-3. 🗣 Commented on [#453](https://github.com/nginxinc/docker-nginx/issues/453) in [nginxinc/docker-nginx](https://github.com/nginxinc/docker-nginx)
-4. 💪 Opened PR [#459](https://github.com/nginxinc/docker-nginx/pull/459) in [nginxinc/docker-nginx](https://github.com/nginxinc/docker-nginx)
-5. 🗣 Commented on [#453](https://github.com/nginxinc/docker-nginx/issues/453) in [nginxinc/docker-nginx](https://github.com/nginxinc/docker-nginx)
+1. 🎉 Merged PR [#9](https://github.com/LogArk/logark/pull/9) in [LogArk/logark](https://github.com/LogArk/logark)
+2. 💪 Opened PR [#9](https://github.com/LogArk/logark/pull/9) in [LogArk/logark](https://github.com/LogArk/logark)
+3. ❗️ Opened issue [#8](https://github.com/LogArk/logark/issues/8) in [LogArk/logark](https://github.com/LogArk/logark)
+4. ❗️ Opened issue [#7](https://github.com/LogArk/logark/issues/7) in [LogArk/logark](https://github.com/LogArk/logark)
+5. ❗️ Opened issue [#6](https://github.com/LogArk/logark/issues/6) in [LogArk/logark](https://github.com/LogArk/logark)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
