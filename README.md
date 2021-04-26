@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/LogArk/logark/pull/10) in [LogArk/logark](https://github.com/LogArk/logark)
-2. ❗️ Closed issue [#7](https://github.com/LogArk/logark/issues/7) in [LogArk/logark](https://github.com/LogArk/logark)
-3. 💪 Opened PR [#10](https://github.com/LogArk/logark/pull/10) in [LogArk/logark](https://github.com/LogArk/logark)
-4. 🎉 Merged PR [#9](https://github.com/LogArk/logark/pull/9) in [LogArk/logark](https://github.com/LogArk/logark)
-5. 💪 Opened PR [#9](https://github.com/LogArk/logark/pull/9) in [LogArk/logark](https://github.com/LogArk/logark)
+1. ❗️ Opened issue [#12](https://github.com/LogArk/logark/issues/12) in [LogArk/logark](https://github.com/LogArk/logark)
+2. 🎉 Merged PR [#11](https://github.com/LogArk/logark/pull/11) in [LogArk/logark](https://github.com/LogArk/logark)
+3. ❗️ Closed issue [#1](https://github.com/LogArk/logark/issues/1) in [LogArk/logark](https://github.com/LogArk/logark)
+4. 💪 Opened PR [#11](https://github.com/LogArk/logark/pull/11) in [LogArk/logark](https://github.com/LogArk/logark)
+5. 🎉 Merged PR [#10](https://github.com/LogArk/logark/pull/10) in [LogArk/logark](https://github.com/LogArk/logark)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
