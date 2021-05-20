@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#89](https://github.com/hashicorp/packer-plugin-azure/issues/89) in [hashicorp/packer-plugin-azure](https://github.com/hashicorp/packer-plugin-azure)
 2. 🗣 Commented on [#89](https://github.com/hashicorp/packer-plugin-azure/issues/89) in [hashicorp/packer-plugin-azure](https://github.com/hashicorp/packer-plugin-azure)
-3. 💪 Opened PR [#89](https://github.com/hashicorp/packer-plugin-azure/pull/89) in [hashicorp/packer-plugin-azure](https://github.com/hashicorp/packer-plugin-azure)
-4. 🗣 Commented on [#83](https://github.com/hashicorp/packer-plugin-azure/issues/83) in [hashicorp/packer-plugin-azure](https://github.com/hashicorp/packer-plugin-azure)
-5. ❗️ Opened issue [#83](https://github.com/hashicorp/packer-plugin-azure/issues/83) in [hashicorp/packer-plugin-azure](https://github.com/hashicorp/packer-plugin-azure)
+3. 🗣 Commented on [#89](https://github.com/hashicorp/packer-plugin-azure/issues/89) in [hashicorp/packer-plugin-azure](https://github.com/hashicorp/packer-plugin-azure)
+4. 💪 Opened PR [#89](https://github.com/hashicorp/packer-plugin-azure/pull/89) in [hashicorp/packer-plugin-azure](https://github.com/hashicorp/packer-plugin-azure)
+5. 🗣 Commented on [#83](https://github.com/hashicorp/packer-plugin-azure/issues/83) in [hashicorp/packer-plugin-azure](https://github.com/hashicorp/packer-plugin-azure)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
