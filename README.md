@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#89](https://github.com/hashicorp/packer-plugin-azure/issues/89) in [hashicorp/packer-plugin-azure](https://github.com/hashicorp/packer-plugin-azure)
-2. 🗣 Commented on [#89](https://github.com/hashicorp/packer-plugin-azure/issues/89) in [hashicorp/packer-plugin-azure](https://github.com/hashicorp/packer-plugin-azure)
+1. 🎉 Merged PR [#3](https://github.com/NicolasFloquet/rabbitmq-mqtt-retained-msg-khepri/pull/3) in [NicolasFloquet/rabbitmq-mqtt-retained-msg-khepri](https://github.com/NicolasFloquet/rabbitmq-mqtt-retained-msg-khepri)
+2. 💪 Opened PR [#3](https://github.com/NicolasFloquet/rabbitmq-mqtt-retained-msg-khepri/pull/3) in [NicolasFloquet/rabbitmq-mqtt-retained-msg-khepri](https://github.com/NicolasFloquet/rabbitmq-mqtt-retained-msg-khepri)
 3. 🗣 Commented on [#89](https://github.com/hashicorp/packer-plugin-azure/issues/89) in [hashicorp/packer-plugin-azure](https://github.com/hashicorp/packer-plugin-azure)
 4. 💪 Opened PR [#89](https://github.com/hashicorp/packer-plugin-azure/pull/89) in [hashicorp/packer-plugin-azure](https://github.com/hashicorp/packer-plugin-azure)
 5. 🗣 Commented on [#83](https://github.com/hashicorp/packer-plugin-azure/issues/83) in [hashicorp/packer-plugin-azure](https://github.com/hashicorp/packer-plugin-azure)
