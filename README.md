@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1.  Labeled issue [#23757](https://github.com/vectordotdev/vector/issues/23757) in [vectordotdev/vector](https://github.com/vectordotdev/vector)
-2. ❗ Opened issue [#23757](https://github.com/vectordotdev/vector/issues/23757) in [vectordotdev/vector](https://github.com/vectordotdev/vector)
+1. 🎉 Merged PR [#3](https://github.com/NicolasFloquet/rabbitmq-mqtt-retained-msg-khepri/pull/3) in [NicolasFloquet/rabbitmq-mqtt-retained-msg-khepri](https://github.com/NicolasFloquet/rabbitmq-mqtt-retained-msg-khepri)
+2. 💪 Opened PR [#3](https://github.com/NicolasFloquet/rabbitmq-mqtt-retained-msg-khepri/pull/3) in [NicolasFloquet/rabbitmq-mqtt-retained-msg-khepri](https://github.com/NicolasFloquet/rabbitmq-mqtt-retained-msg-khepri)
 3. 💪 Opened PR [#3](undefined) in [NicolasFloquet/rabbitmq-mqtt-retained-msg-khepri](https://github.com/NicolasFloquet/rabbitmq-mqtt-retained-msg-khepri)
 4. 💪 Opened PR [#89](https://github.com/hashicorp/packer-plugin-azure/pull/89) in [hashicorp/packer-plugin-azure](https://github.com/hashicorp/packer-plugin-azure)
 5. 🗣 Commented on [#83](https://github.com/hashicorp/packer-plugin-azure/issues/83) in [hashicorp/packer-plugin-azure](https://github.com/hashicorp/packer-plugin-azure)
