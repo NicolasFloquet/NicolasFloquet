@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/NicolasFloquet/rabbitmq-mqtt-retained-msg-khepri/pull/3) in [NicolasFloquet/rabbitmq-mqtt-retained-msg-khepri](https://github.com/NicolasFloquet/rabbitmq-mqtt-retained-msg-khepri)
+1. 🗣 Commented on [#489](https://github.com/pyrochlore/obsidian-tracker/issues/489#issuecomment-3356167173) in [pyrochlore/obsidian-tracker](https://github.com/pyrochlore/obsidian-tracker)
 2. 💪 Opened PR [#3](https://github.com/NicolasFloquet/rabbitmq-mqtt-retained-msg-khepri/pull/3) in [NicolasFloquet/rabbitmq-mqtt-retained-msg-khepri](https://github.com/NicolasFloquet/rabbitmq-mqtt-retained-msg-khepri)
 3. 💪 Opened PR [#3](undefined) in [NicolasFloquet/rabbitmq-mqtt-retained-msg-khepri](https://github.com/NicolasFloquet/rabbitmq-mqtt-retained-msg-khepri)
 4. 💪 Opened PR [#89](https://github.com/hashicorp/packer-plugin-azure/pull/89) in [hashicorp/packer-plugin-azure](https://github.com/hashicorp/packer-plugin-azure)
