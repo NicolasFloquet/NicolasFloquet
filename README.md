@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](undefined) in [NicolasFloquet/rabbitmq-mqtt-retained-msg-khepri](https://github.com/NicolasFloquet/rabbitmq-mqtt-retained-msg-khepri)
-2. ❗ Opened issue [#518](https://github.com/pyrochlore/obsidian-tracker/issues/518) in [pyrochlore/obsidian-tracker](https://github.com/pyrochlore/obsidian-tracker)
-3. 🗣 Commented on [#489](https://github.com/pyrochlore/obsidian-tracker/issues/489#issuecomment-3356167173) in [pyrochlore/obsidian-tracker](https://github.com/pyrochlore/obsidian-tracker)
-4. 💪 Opened PR [#89](https://github.com/hashicorp/packer-plugin-azure/pull/89) in [hashicorp/packer-plugin-azure](https://github.com/hashicorp/packer-plugin-azure)
+1. ❌ Closed PR [#6](https://github.com/NicolasFloquet/rabbitmq-mqtt-retained-msg-khepri/pull/6) in [NicolasFloquet/rabbitmq-mqtt-retained-msg-khepri](https://github.com/NicolasFloquet/rabbitmq-mqtt-retained-msg-khepri)
+2. 💪 Opened PR [#6](https://github.com/NicolasFloquet/rabbitmq-mqtt-retained-msg-khepri/pull/6) in [NicolasFloquet/rabbitmq-mqtt-retained-msg-khepri](https://github.com/NicolasFloquet/rabbitmq-mqtt-retained-msg-khepri)
+3. 🎉 Merged PR [#5](https://github.com/NicolasFloquet/rabbitmq-mqtt-retained-msg-khepri/pull/5) in [NicolasFloquet/rabbitmq-mqtt-retained-msg-khepri](https://github.com/NicolasFloquet/rabbitmq-mqtt-retained-msg-khepri)
+4. 💪 Opened PR [#5](https://github.com/NicolasFloquet/rabbitmq-mqtt-retained-msg-khepri/pull/5) in [NicolasFloquet/rabbitmq-mqtt-retained-msg-khepri](https://github.com/NicolasFloquet/rabbitmq-mqtt-retained-msg-khepri)
 5. 🗣 Commented on [#83](https://github.com/hashicorp/packer-plugin-azure/issues/83) in [hashicorp/packer-plugin-azure](https://github.com/hashicorp/packer-plugin-azure)
 <!--END_SECTION:activity-->
 
